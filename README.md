@@ -2,7 +2,7 @@
 Instant Messenger based on Android using Firebase <br/>
 * Language used is Kotlin.<br/>
 * Authentication is done using firebase <br/><br/>
-The app allows you to do the following: <br/>
+The app allows you to do the following <br/>
 * Notify the app of new chat messages
 * Upload photos
 * Download photos 
