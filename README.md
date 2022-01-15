@@ -13,10 +13,6 @@ The app allows you to do the following <br/>
 
 # ScreenShots
 
-## Authentication
-
-![auth](https://user-images.githubusercontent.com/63288542/149619318-7da42468-69a7-49c3-82b2-66b352f9dd97.jpg)
-
 ## Interface of chat window
 
 <img width="164" alt="chat window" src="https://user-images.githubusercontent.com/63288542/149619324-11c90e31-a6d6-458f-8152-6b8003b7021e.PNG">
